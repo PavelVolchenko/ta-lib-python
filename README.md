@@ -8,8 +8,8 @@ instead of SWIG. From the homepage:
 > TA-Lib is widely used by trading software developers requiring to perform
 > technical analysis of financial market data.
 >
-> * Includes 150+ indicators such as ADX, MACD, RSI, Stochastic, Bollinger
->   Bands, etc.
+> * Включает 150+ индикаторов, таких как ADX, MACD, RSI, Stochastic, Bollinger
+>   Bands и т.д.
 > * Candlestick pattern recognition
 > * Open-source API for C/C++, Java, Perl, Python and 100% Managed .NET
 
