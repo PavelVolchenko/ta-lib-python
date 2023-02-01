@@ -5,8 +5,7 @@
 This is a Python wrapper for [TA-LIB](http://ta-lib.org) based on Cython
 instead of SWIG. From the homepage:
 
-> TA-Lib is widely used by trading software developers requiring to perform
-> technical analysis of financial market data.
+> TA-Lib используется для технического анализа финансовых рынков
 >
 > * Включает 150+ индикаторов, таких как ADX, MACD, RSI, Stochastic, Bollinger
 >   Bands и т.д.
